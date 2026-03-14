@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "lesmanae"
+    },
+    "records": {
+        "NS": [
+            "bob.ns.cloudflare.com",
+            "fay.ns.cloudflare.com"
+        ]
+    }
+}
